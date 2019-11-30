@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/0.1Managers/Reveal_Symbol.cs">
+    <Files>
+      <File FileName="Assets/Scripts/0.1Managers/Reveal_Symbol.cs" Line="128" Column="22" />
+      <File FileName="Assets/Scripts/0.1Managers/Restart.cs" Line="68" Column="1" />
+      <File FileName="Assets/Scripts/SoundMixer.cs" Line="24" Column="96" />
+      <File FileName="Assets/Scripts/GUI/ViewModel.cs" Line="15" Column="3" />
+      <File FileName="Assets/Scripts/GUI/Apperence.cs" Line="43" Column="84" />
+      <File FileName="Assets/CameraManeger.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,56 @@
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/UnityEngine.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/UnityEditor.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/nunit.framework.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/OSCsharp.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/Unity.Cecil.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/Unity.DataContract.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/segalcalin/Google Drive/InDialogWorkInProgress/Machines-utopiques_G.Lyrique/Make/Unity/Muse_Performance_V3/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/UnityEngine.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/UnityEditor.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/nunit.framework.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/OSCsharp.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/Unity.Cecil.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/Unity.DataContract.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/segalcalin/Google Drive (1)/Unity _projects/Muse_Performance_VFinal/Temp/bin/Debug/Unity.Cecil.Mdb.dll
